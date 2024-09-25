@@ -1,0 +1,44 @@
+[
+    {
+        "id": "84a444a9-8e3f-424c-a226-fe1c83c821b1",
+        "master_id": "b84bfe89-11cd-44c3-ac80-2845716c3a0e",
+        "file_path": "extracted_objects\\84a444a9-8e3f-424c-a226-fe1c83c821b1.png",
+        "labels": [
+            "donut",
+            "clock",
+            "clock"
+        ],
+        "confidences": [
+            0.507763683795929,
+            0.3793225586414337,
+            0.3543459177017212
+        ],
+        "bbox": [
+            696.0369262695312,
+            357.5407409667969,
+            797.4442138671875,
+            445.5677185058594
+        ],
+        "extracted_text": "",
+        "summary": "Object ID: Unknown Object\nDescription: This object is identified as a Unknown Object.\nKey Attributes: General Information\nExtracted Text: "
+    },
+    {
+        "id": "c0909997-20b8-4c51-ab28-09ef81339380",
+        "master_id": "b84bfe89-11cd-44c3-ac80-2845716c3a0e",
+        "file_path": "extracted_objects\\c0909997-20b8-4c51-ab28-09ef81339380.png",
+        "labels": [
+            "airplane"
+        ],
+        "confidences": [
+            0.7257692813873291
+        ],
+        "bbox": [
+            0.0,
+            106.93437957763672,
+            742.5484619140625,
+            376.3363037109375
+        ],
+        "extracted_text": "Delta",
+        "summary": "Object ID: Unknown Object\nDescription: This object is identified as a Unknown Object.\nKey Attributes: General Information\nExtracted Text: Delta"
+    }
+]

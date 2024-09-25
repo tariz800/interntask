@@ -1,0 +1,12 @@
+{
+    "id": "b47b662b-1bb5-41bb-9acb-5a05129bdb22",
+    "master_id": "5727ca91-e713-4cd7-a77d-ec445eeb8e24",
+    "file_path": "extracted_objects\\b47b662b-1bb5-41bb-9acb-5a05129bdb22.png",
+    "bbox": [
+        617.4182739257812,
+        420.7651672363281,
+        642.8958129882812,
+        455.2846984863281
+    ],
+    "label": 1
+}

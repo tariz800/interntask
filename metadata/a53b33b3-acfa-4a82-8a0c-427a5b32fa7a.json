@@ -1,0 +1,12 @@
+{
+    "id": "a53b33b3-acfa-4a82-8a0c-427a5b32fa7a",
+    "master_id": "b84bfe89-11cd-44c3-ac80-2845716c3a0e",
+    "file_path": "extracted_objects\\a53b33b3-acfa-4a82-8a0c-427a5b32fa7a.png",
+    "bbox": [
+        653.8146362304688,
+        242.65966796875,
+        667.359130859375,
+        255.8578643798828
+    ],
+    "label": 1
+}

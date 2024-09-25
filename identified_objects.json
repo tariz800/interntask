@@ -1,0 +1,262 @@
+[
+    {
+        "id": "0a1c4d64-bb8e-43b0-b2a3-ec5d91040f12",
+        "file_path": "extracted_objects\\0a1c4d64-bb8e-43b0-b2a3-ec5d91040f12.png",
+        "labels": [
+            "person"
+        ],
+        "confidences": [
+            0.4292081892490387
+        ]
+    },
+    {
+        "id": "28472e9b-3505-4e60-bbe1-ff032ccb59b6",
+        "file_path": "extracted_objects\\28472e9b-3505-4e60-bbe1-ff032ccb59b6.png",
+        "labels": [
+            "airplane"
+        ],
+        "confidences": [
+            0.7257692813873291
+        ]
+    },
+    {
+        "id": "3cfd95ed-5cc3-45eb-bcd0-6679e878c79f",
+        "file_path": "extracted_objects\\3cfd95ed-5cc3-45eb-bcd0-6679e878c79f.png",
+        "labels": [
+            "bus"
+        ],
+        "confidences": [
+            0.7645134329795837
+        ]
+    },
+    {
+        "id": "450416f2-72c4-4c51-9041-3e254e8b7c09",
+        "file_path": "extracted_objects\\450416f2-72c4-4c51-9041-3e254e8b7c09.png",
+        "labels": [
+            "bus",
+            "person",
+            "person"
+        ],
+        "confidences": [
+            0.6302918195724487,
+            0.6058114767074585,
+            0.2717040479183197
+        ]
+    },
+    {
+        "id": "571100e8-7618-4189-8c5c-3c75936e1e99",
+        "file_path": "extracted_objects\\571100e8-7618-4189-8c5c-3c75936e1e99.png",
+        "labels": [
+            "airplane"
+        ],
+        "confidences": [
+            0.7841387391090393
+        ]
+    },
+    {
+        "id": "579c7f17-30de-4848-8fc5-bd01c809f226",
+        "file_path": "extracted_objects\\579c7f17-30de-4848-8fc5-bd01c809f226.png",
+        "labels": [
+            "person"
+        ],
+        "confidences": [
+            0.4833589494228363
+        ]
+    },
+    {
+        "id": "84a444a9-8e3f-424c-a226-fe1c83c821b1",
+        "file_path": "extracted_objects\\84a444a9-8e3f-424c-a226-fe1c83c821b1.png",
+        "labels": [
+            "donut",
+            "clock",
+            "clock"
+        ],
+        "confidences": [
+            0.507763683795929,
+            0.3793225586414337,
+            0.3543459177017212
+        ]
+    },
+    {
+        "id": "8f8894ac-e9cd-405a-b02d-67365ec5653c",
+        "file_path": "extracted_objects\\8f8894ac-e9cd-405a-b02d-67365ec5653c.png",
+        "labels": [
+            "person"
+        ],
+        "confidences": [
+            0.2507934272289276
+        ]
+    },
+    {
+        "id": "953cf4ac-d185-4bcb-aefd-4e6bb496cd87",
+        "file_path": "extracted_objects\\953cf4ac-d185-4bcb-aefd-4e6bb496cd87.png",
+        "labels": [
+            "person",
+            "person"
+        ],
+        "confidences": [
+            0.38737431168556213,
+            0.2576718330383301
+        ]
+    },
+    {
+        "id": "9679e1fb-29f1-407a-b428-7b1d17963b56",
+        "file_path": "extracted_objects\\9679e1fb-29f1-407a-b428-7b1d17963b56.png",
+        "labels": [
+            "person"
+        ],
+        "confidences": [
+            0.7040454149246216
+        ]
+    },
+    {
+        "id": "b4af7056-fd58-418a-bfa1-470738d877bd",
+        "file_path": "extracted_objects\\b4af7056-fd58-418a-bfa1-470738d877bd.png",
+        "labels": [
+            "bus",
+            "car",
+            "person"
+        ],
+        "confidences": [
+            0.6457259654998779,
+            0.3769408166408539,
+            0.25083133578300476
+        ]
+    },
+    {
+        "id": "c0909997-20b8-4c51-ab28-09ef81339380",
+        "file_path": "extracted_objects\\c0909997-20b8-4c51-ab28-09ef81339380.png",
+        "labels": [
+            "airplane"
+        ],
+        "confidences": [
+            0.7257692813873291
+        ]
+    },
+    {
+        "id": "ccbe2e5e-d8f5-4998-8d00-01ed7f9a078c",
+        "file_path": "extracted_objects\\ccbe2e5e-d8f5-4998-8d00-01ed7f9a078c.png",
+        "labels": [
+            "train"
+        ],
+        "confidences": [
+            0.43974733352661133
+        ]
+    },
+    {
+        "id": "d56afe2d-80c6-4e62-8d5d-a7f97eb3614c",
+        "file_path": "extracted_objects\\d56afe2d-80c6-4e62-8d5d-a7f97eb3614c.png",
+        "labels": [
+            "donut",
+            "clock",
+            "clock"
+        ],
+        "confidences": [
+            0.507763683795929,
+            0.3793225586414337,
+            0.3543459177017212
+        ]
+    },
+    {
+        "id": "dca96e71-0526-4ed0-8abd-a875bb13a3ec",
+        "file_path": "extracted_objects\\dca96e71-0526-4ed0-8abd-a875bb13a3ec.png",
+        "labels": [
+            "bus",
+            "person",
+            "person",
+            "person",
+            "person",
+            "person",
+            "person"
+        ],
+        "confidences": [
+            0.6760683059692383,
+            0.6068114042282104,
+            0.4765987992286682,
+            0.34196987748146057,
+            0.3027580976486206,
+            0.2985342741012573,
+            0.2626088261604309
+        ]
+    },
+    {
+        "id": "dfa2c087-422c-48e7-bfe4-6c2a3aebfb96",
+        "file_path": "extracted_objects\\dfa2c087-422c-48e7-bfe4-6c2a3aebfb96.png",
+        "labels": [
+            "person"
+        ],
+        "confidences": [
+            0.27867934107780457
+        ]
+    },
+    {
+        "id": "e266182e-ba73-4785-a3eb-9595abd8796c",
+        "file_path": "extracted_objects\\e266182e-ba73-4785-a3eb-9595abd8796c.png",
+        "labels": [
+            "bus",
+            "person",
+            "person",
+            "person",
+            "person",
+            "person",
+            "person"
+        ],
+        "confidences": [
+            0.8863813281059265,
+            0.6507204174995422,
+            0.533315122127533,
+            0.4352269172668457,
+            0.35842448472976685,
+            0.3332192897796631,
+            0.25769147276878357
+        ]
+    },
+    {
+        "id": "e592c5d2-ed2e-47f3-b38a-0d810232df4c",
+        "file_path": "extracted_objects\\e592c5d2-ed2e-47f3-b38a-0d810232df4c.png",
+        "labels": [
+            "airplane",
+            "truck",
+            "truck",
+            "airplane"
+        ],
+        "confidences": [
+            0.6717532873153687,
+            0.5300403833389282,
+            0.366576224565506,
+            0.29495158791542053
+        ]
+    },
+    {
+        "id": "ed47ceaa-d1a1-4bfb-8ca7-c6b9475a9b4e",
+        "file_path": "extracted_objects\\ed47ceaa-d1a1-4bfb-8ca7-c6b9475a9b4e.png",
+        "labels": [
+            "car"
+        ],
+        "confidences": [
+            0.49501585960388184
+        ]
+    },
+    {
+        "id": "ee46e00d-6f4a-4ead-92a1-49e2346492fa",
+        "file_path": "extracted_objects\\ee46e00d-6f4a-4ead-92a1-49e2346492fa.png",
+        "labels": [
+            "person",
+            "person"
+        ],
+        "confidences": [
+            0.37926217913627625,
+            0.3674371540546417
+        ]
+    },
+    {
+        "id": "f6e6e307-846e-435c-9515-8873685a72ec",
+        "file_path": "extracted_objects\\f6e6e307-846e-435c-9515-8873685a72ec.png",
+        "labels": [
+            "person"
+        ],
+        "confidences": [
+            0.4346849024295807
+        ]
+    }
+]

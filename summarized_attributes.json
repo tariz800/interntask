@@ -1,0 +1,16 @@
+[
+    {
+        "id": "c0909997-20b8-4c51-ab28-09ef81339380",
+        "file_path": "extracted_objects\\c0909997-20b8-4c51-ab28-09ef81339380.png",
+        "label": "airplane",
+        "extracted_text": "Delta",
+        "summary": "Object ID: Unknown Object\nDescription: This object is identified as a Unknown Object.\nKey Attributes: General Information\nExtracted Text: Delta"
+    },
+    {
+        "id": "84a444a9-8e3f-424c-a226-fe1c83c821b1",
+        "file_path": "extracted_objects\\84a444a9-8e3f-424c-a226-fe1c83c821b1.png",
+        "label": "donut",
+        "extracted_text": "",
+        "summary": "Object ID: Unknown Object\nDescription: This object is identified as a Unknown Object.\nKey Attributes: General Information\nExtracted Text: "
+    }
+]
